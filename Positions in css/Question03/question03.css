@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    float: right;
+    
+}
+.text{
+    font-size: 22px;
+}
+.float{
+    background-color: rgba(194, 197, 117, 0.317);
+    height: 270px;
+    width: 100%;
+}
+
+.text{
+    margin-top: 30px;
+}
+h2{
+    padding-top: 20px;
+}
+.float{
+    padding-right: 10px;
+    padding-left: 10px;
+}

@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.parent_box{
+    position: relative;
+    
+}
+.box{
+    background-color:#22ddc7e5;
+    height: 50px;
+    width: 50px;
+    border: 1px solid yellowgreen;
+    text-align: center;
+    position: absolute;
+}
+.boxA{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.boxB{
+    margin-left:170px ;
+    margin-top:170px ;
+}
+.boxC{
+    margin-left:230px;
+    margin-top:170px;
+}
+.boxD{
+    margin-left: 170px;
+    margin-top:230px ;
+}
+.boxE{
+    margin-left: 230px;
+    margin-top: 230px;
+}

@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+    height: 10vh;
+    position: sticky;
+    top: 0px;
+    
+}
+
+.logo {
+    color: white;
+    margin: auto;
+    margin-left: 10px;
+    
+
+}
+
+header li {
+    display: inline-block;
+    font-size: 18px;
+    
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(53, 55, 56);
+    margin-right: 20px;
+    padding: 10px;
+
+
+}
+
+.get_started {
+    height: 35px;
+    width: 110px;
+    margin-right: 30px;
+    background-color: black;
+    border: 2px solid #daa621;
+    color: #daa621;
+    border-radius: 10px;
+}
+ .home {
+    color: white;
+}
